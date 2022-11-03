@@ -55,3 +55,7 @@ L.geoJSON(data, {
 });
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0f6f58bf0e40f2e201803b204df603f3a34e8980
